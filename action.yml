@@ -1,4 +1,4 @@
-name: 'PostgreSQL'
+name: 'PostgreSQL in GitHub Actions'
 description: '启动一个PostgreSQL，用于单元测试'
 
 branding:
